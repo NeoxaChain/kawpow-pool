@@ -1,0 +1,16 @@
+{
+    "name": "ravencoin",    
+    "symbol": "RVN",    
+    "algorithm": "kawpow",
+    
+    "wallet": "https://github.com/RavenProject/Ravencoin/releases",
+
+    "explorer":"https://explorer.ravenland.org/",
+    
+    "explorerGetBlockJSON": "https://explorer.ravenland.org/api/getrawtransaction?decrypt=1&txid=",
+    "explorerGetBlock": "https://explorer.ravenland.org/block/",
+    "explorerGetTX": "https://explorer.ravenland.org/tx/",
+    
+    "blockTime": 60,
+    "blockChange": 1   
+}
