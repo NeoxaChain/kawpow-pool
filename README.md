@@ -45,7 +45,7 @@ This is opensource mining pool for Neoxa, Please visit [Neoxa](https://www.neoxa
     sudo usermod -aG sudo pool
     su - pool
     sudo apt install wget
-    wget https://github.com/NeoxaChain/Neoxa/releases/download/v1.0.0/neoxad-linux64.zip
+    wget https://github.com/NeoxaChain/Neoxa/releases/download/v1.0.1/neoxad-linux64.zip   (Ensure LATEST!)
     unzip neoxad-linux64.zip
     mkdir -p ~/.neoxa/
     touch ~/.neoxa/neoxa.conf
