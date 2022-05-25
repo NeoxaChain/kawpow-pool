@@ -72,7 +72,7 @@
         "stratumHost": "65.108.246.133",
         "stats": {
             "updateInterval": 30,
-            "historicalRetention": 172800,
+            "historicalRetention": 95040,
             "hashrateWindow": 600
         },
         "adminCenter": {
