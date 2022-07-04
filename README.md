@@ -89,7 +89,7 @@ Other helpfull commands.
 -------
 ### Configure Pool
 
-Change "stratumHost": "192.168.0.200", to your IP or DNS in file config.json:
+If your daemon is hosted locally, keep your settings to 127.0.0.1, if you choose to submit blocks to an external daemon then edit the IP details below accordingly.
 
     cd ~/kawpow-pool
     nano config.json
