@@ -53,8 +53,10 @@ This is opensource mining pool for Neoxa, Please visit [Neoxa](https://www.neoxa
     echo "rpcpassword=pass1" >> ~/.neoxa/neoxa.conf
     echo "prune=550" >> ~/.neoxa/neoxa.conf
     echo "daemon=1" >> ~/.neoxa/neoxa.conf
-    neoxad
-    neoxa-cli getnewaddress
+    chmod +x neoxad 
+    chmod +x neoxa-cli
+    ./neoxad
+    ./neoxa-cli getnewaddress
 
 Example output: HNRMPAYzdBHGWgK7CjSFByuUcufCHSST7r - it is the address of your pool, you need to remember it and specify it in the configuration file pool_configs/neoxacoin.json.
     
