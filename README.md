@@ -58,7 +58,7 @@ This is opensource mining pool for Neoxa, Please visit [Neoxa](https://www.neoxa
     ./neoxad
     ./neoxa-cli getnewaddress
 
-Example output: HNRMPAYzdBHGWgK7CjSFByuUcufCHSST7r - it is the address of your pool, you need to remember it and specify it in the configuration file pool_configs/neoxacoin.json.
+Example output: GcyPqoF5gUNGR1vwG1KofWKVmhrhdSsUPF - it is the address of your pool, you need to remember it and specify it in the configuration file pool_configs/neoxacoin.json.
     
     neoxa-cli getaddressesbyaccount ""
     
